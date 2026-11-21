@@ -1,0 +1,24 @@
+{
+ "digest_payoff_identity": {
+  "n_games": 280,
+  "max_abs_diff": 0.0
+ },
+ "exhaustive_two_type": {
+  "n_comparisons": 615870,
+  "max_abs_err": 3.552713678800501e-15
+ },
+ "RN24_top": [
+  {
+   "label": "C-NPN",
+   "freq": 0.22435241738563952
+  },
+  {
+   "label": "L-PNN",
+   "freq": 0.22145959312812333
+  },
+  {
+   "label": "D-NNP",
+   "freq": 0.21995535710487507
+  }
+ ]
+}
